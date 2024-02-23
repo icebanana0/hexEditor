@@ -3,9 +3,19 @@
 how to run: 
 
 unix based:
-`gcc hexEditor.c -o hexEditor`
-`./hexEditor <your file>`
+\```
+gcc hexEditor.c -o hexEditor
+\```
+
+\```
+./hexEditor <your file>
+\```
 
 windows:
-`gcc hexEditor.c -o hexEditor`
-`hexEditor.exe <your file>`
+\```
+gcc hexEditor.c -o hexEditor
+\```
+
+\```
+hexEditor.exe <your file>
+\```
